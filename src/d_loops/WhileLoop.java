@@ -9,9 +9,10 @@ package d_loops;
 
 public class WhileLoop {
     public static void main(String[] args) {
-        int size = 1 ;
-        while(size != 6){
-
+        int i=1;
+        while(i<=10){
+            System.out.println(i);
+            i++;
         }
-    }
+}
 }
