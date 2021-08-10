@@ -13,7 +13,7 @@ public class DoWhileLoop {
         do{
             System.out.println(i);
             i++;
-        }while(i<=10);
+        }while(i<=8);
     }
 }
 
